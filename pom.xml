@@ -8,10 +8,12 @@
     <groupId>xyz.ccc2340</groupId>
     <artifactId>base-project-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    
+
     <modules>
         <module>base-project-module-orm</module>
     </modules>
+
+
 
     <packaging>pom</packaging>
 
