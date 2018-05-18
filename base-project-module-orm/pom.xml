@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <parent>
-        <artifactId>base-project-parent</artifactId>
         <groupId>xyz.ccc2340</groupId>
+        <artifactId>base-project-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
