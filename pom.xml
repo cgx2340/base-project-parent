@@ -13,8 +13,6 @@
         <module>base-project-module-orm</module>
     </modules>
 
-
-
     <packaging>pom</packaging>
 
     <properties>
